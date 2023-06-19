@@ -1,6 +1,5 @@
 # .github/workflows/main.yml
 
-tests:
 name: Main Taski workflow
 on:
   push:
